@@ -1,3 +1,3 @@
-<h1 align='center'><img src='https://github.com/elastic/uptime/raw/master/elastic.png' alt='Logs' width='48' valign='middle' /> Elastic Uptime</h1>
+<h1 align='center'>Elastic Uptime</h1>
 
 <p align='center'>This project includes resources and general issue tracking for the Elastic Uptime solution.</p>
