@@ -20,4 +20,4 @@ For example: link to other solutions for further investigation
 - Add the `design` label
 
 
-If in doubt, don’t hesitate to reach out to the `#observability-design` slack channel.
+If in doubt, don’t hesitate to reach out to the `#observability-design` Slack channel.
